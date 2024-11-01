@@ -1,0 +1,2 @@
+public class lap1 {
+}

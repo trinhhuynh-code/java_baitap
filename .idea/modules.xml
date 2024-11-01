@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/session2/forloop/forloop.iml" filepath="$PROJECT_DIR$/session2/forloop/forloop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session2/if-else/if-else.iml" filepath="$PROJECT_DIR$/session2/if-else/if-else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_baitap.iml" filepath="$PROJECT_DIR$/java_baitap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session2/session2.iml" filepath="$PROJECT_DIR$/session2/session2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session3/session3.iml" filepath="$PROJECT_DIR$/session3/session3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4_5/session4_5.iml" filepath="$PROJECT_DIR$/session4_5/session4_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session6/session6.iml" filepath="$PROJECT_DIR$/session6/session6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session2/switchcase/switchcase.iml" filepath="$PROJECT_DIR$/session2/switchcase/switchcase.iml" />
+    </modules>
+  </component>
+</project>
